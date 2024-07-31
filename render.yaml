@@ -1,0 +1,10 @@
+services:
+  - type: cron
+    name: web-scraper
+    env: python
+    schedule: "0 12 * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python tiktok_scraper.py
+    envVars:
+      - key: MONGO_URI
+        sync: false
