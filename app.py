@@ -3,8 +3,9 @@ from flask import Flask, render_template, jsonify
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-# import data wrangling toold
+# import native utilities
 from datetime import datetime
+import os
 
 # import custom functions
 from tiktok_data_cleaning import clean_user_data
@@ -13,7 +14,7 @@ from helper import get_brand_username
 app = Flask(__name__)
 
 # MongoDB Atlas connection string
-mongo_uri = "mongodb+srv://jackzhang1298:youlanjiyi@sbcluster.surcdnj.mongodb.net/?retryWrites=true&w=majority&appName=SBCluster"
+MONGO_URI = os.environ.get('MONGO_URI')
 
 def mongo_login(uri):
     # Create a new client and connect to the server
@@ -35,7 +36,7 @@ def index():
 @app.route('/data')
 def get_data():
     # Fetch data from MongoDB
-    client = mongo_login(mongo_uri)
+    client = mongo_login(MONGO_URI)
     # Select the database and collection
     db = client['knowYourViralBrands']
     collection = db['TikTokAccount']
