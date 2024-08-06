@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TikTok Trends Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}">
+</head>
+<body>
+    <div class="header-content">
+        <img src="{{ url_for('static', filename='images/Sonoma Brands Capital Logo.png') }}" alt="Sonoma Brands Capital" class="logo">
+        <h1>Know Your Viral Brands</h1>
+    </div>
+    
+    <div class="chart-container">
+        <canvas id="followersChart"></canvas>
+    </div>
+    
+    <div class="chart-container">
+        <canvas id="likesChart"></canvas>
+    </div>
+    
+    <div class="chart-container">
+        <canvas id="videosChart"></canvas>
+    </div>
+
+    <script>
+        // Fetch data and create charts
+        fetch('/data')
+            .then(response => response.json())
+            .then(data => {
+                console.log('Fetched data:', data);  // Debug log
+                createChart('followersChart', data, 'Trended TikTok Followers by Brand', 'followerCount');
+                createChart('likesChart', data, 'Trended TikTok Likes by Brand', 'heartCount');
+                createChart('videosChart', data, 'Trended TikTok Videos by Brand', 'videoCount');
+            })
+            .catch(error => console.error('Error fetching data:', error));
+
+        function createChart(canvasId, data, title, dataKey) {
+            console.log(`Creating chart: ${canvasId}, dataKey: ${dataKey}`);  // Debug log
+            const ctx = document.getElementById(canvasId).getContext('2d');
+            
+            const chartData = {
+                datasets: data.datasets.map(dataset => {
+                    console.log(`Processing dataset for ${dataset.label}:`, dataset[dataKey]);  // Debug log
+                    return {
+                        label: dataset.label,
+                        data: dataset[dataKey],
+                        fill: dataset.fill,
+                        borderColor: dataset.borderColor,
+                        tension: dataset.tension
+                    };
+                })
+            };
+            
+            console.log('Chart data:', chartData);  // Debug log
+
+            new Chart(ctx, {
+                type: 'line',
+                data: chartData,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: title,
+                            font: {
+                                size: 18
+                            }
+                        },
+                        legend: {
+                            position: 'top',
+                        }
+                    },
+                    scales: {
+                        x: {
+                            type: 'time',
+                            time: {
+                                unit: 'day',
+                                parser: 'yyyy-MM-dd'  // Add this line
+                            },
+                            title: {
+                                display: true,
+                                text: 'Date'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: dataKey.charAt(0).toUpperCase() + dataKey.slice(1)
+                            },
+                            beginAtZero: true  // Add this line
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

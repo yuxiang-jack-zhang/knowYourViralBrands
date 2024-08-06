@@ -57,7 +57,7 @@ def backup(new_data, fname="backup.json"):
     return 
 
 def upload_to_mongo(data=None):
-    MONGO_URI = os.environ.get('MONGO_URI')
+    MONGO_URI = "mongodb+srv://jackzhang1298:youlanjiyi@sbcluster.surcdnj.mongodb.net/?retryWrites=true&w=majority&appName=SBCluster"
 
     # Create a new client and connect to the server
     client = MongoClient(MONGO_URI, server_api=ServerApi('1'))
