@@ -4,3 +4,4 @@ pandas
 gunicorn
 flask
 playwright
+flask_cors
