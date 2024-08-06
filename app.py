@@ -74,38 +74,11 @@ def get_data():
             'tension': 0.1
         })
 
-
-        # datasets_followerCount.append({
-        #     'label': brand,
-        #     'data': [{'x': t, 'y': c} for t,c in zip(user_data['timestamp'], user_data['followerCount'])],
-        #     'fill': False,
-        #     'borderColor': f'rgb({hash(brand) % 256}, {(hash(brand) // 256) % 256}, {(hash(brand) // 65536) % 256})',
-        #     'tension': 0.1
-        # })
-        # datasets_heartCount.append({
-        #     'label': brand,
-        #     'data': [{'x': t, 'y': c} for t,c in zip(user_data['timestamp'], user_data['heartCount'])],
-        #     'fill': False,
-        #     'borderColor': f'rgb({hash(brand) % 256}, {(hash(brand) // 256) % 256}, {(hash(brand) // 65536) % 256})',
-        #     'tension': 0.1
-        # })
-        # datasets_videoCount.append({
-        #     'label': brand,
-        #     'data': [{'x': t, 'y': c} for t,c in zip(user_data['timestamp'], user_data['videoCount'])],
-        #     'fill': False,
-        #     'borderColor': f'rgb({hash(brand) % 256}, {(hash(brand) // 256) % 256}, {(hash(brand) // 65536) % 256})',
-        #     'tension': 0.1
-        # })
-
         # find the min and max timestamps
         min_timestamp = float('inf')
         max_timestamp = float('-inf')
         min_timestamp = min([min_timestamp] + user_data['timestamp'])
         max_timestamp = max([max_timestamp] + user_data['timestamp'])
-
-    # datasets['followerCount'] = datasets_followerCount
-    # datasets['heartCount'] = datasets_heartCount
-    # datasets['videoCount'] = datasets_videoCount
 
     return jsonify({
         'labels': brands,
