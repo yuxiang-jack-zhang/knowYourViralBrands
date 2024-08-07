@@ -26,6 +26,10 @@
         <canvas id="videosChart"></canvas>
     </div>
 
+    <div class="chart-container">
+        <canvas id="likespervideoChart"></canvas>
+    </div>
+
     <script>
         // Fetch data and create charts
         fetch('/data')
@@ -35,6 +39,7 @@
                 createChart('followersChart', data, 'Trended TikTok Followers by Brand', 'followerCount');
                 createChart('likesChart', data, 'Trended TikTok Likes by Brand', 'heartCount');
                 createChart('videosChart', data, 'Trended TikTok Videos by Brand', 'videoCount');
+                createChart('likespervideoChart', data, 'Trended Average Tiktok Likes per Video by Brand', 'heart2videoRatio');
             })
             .catch(error => console.error('Error fetching data:', error));
 

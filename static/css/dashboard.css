@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #424242;
     padding: 20px 0;
     align-items: center;
 }
@@ -21,10 +21,9 @@ header {
 }
 
 .logo {
-    width: 100px;
-    height: auto;
+    width: 9.25rem;
+    height: 3.75rem;
     margin-right: 20px;
-    ;
 }
 
 h1 {

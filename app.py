@@ -55,11 +55,6 @@ def get_data():
 
     # Prepare datasets for Chart.js
     datasets = []
-
-    # For followerCount
-    datasets_followerCount = []
-    datasets_heartCount = []
-    datasets_videoCount = []
     for username, user_data in data.items():
         # get the brand for tiktok username
         brand = df.loc[df['TikTok Username'] == username]['Brand'].values[0]
@@ -69,6 +64,7 @@ def get_data():
             'followerCount': [{'x': t, 'y': c} for t,c in zip(user_data['timestamp'], user_data['followerCount'])],
             'heartCount': [{'x': t, 'y': c} for t,c in zip(user_data['timestamp'], user_data['heartCount'])],
             'videoCount': [{'x': t, 'y': c} for t,c in zip(user_data['timestamp'], user_data['videoCount'])],
+            'heart2videoRatio': [{'x': t, 'y': h/v} for t,h,v in zip(user_data['timestamp'], user_data['heartCount'], user_data['videoCount'])],
             'fill': False,
             'borderColor': f'rgb({hash(brand) % 256}, {(hash(brand) // 256) % 256}, {(hash(brand) // 65536) % 256})',
             'tension': 0.1
