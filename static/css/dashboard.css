@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    background-color: white;
     margin: 0;
     padding: 20px;
     color: #333;
 }
 
 header {
-    background-color: #424242;
+    background-color: white; 
     padding: 20px 0;
     align-items: center;
 }
@@ -17,26 +17,38 @@ header {
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
-    padding-left: 40px; /* Increased left padding */
+    padding-left: 40px; 
+    background-color: white;
+    padding-bottom: 10px;
 }
 
 .logo {
+    display: block;
     width: 9.25rem;
     height: 3.75rem;
     margin-right: 20px;
+    background-color: #eee; /* Match body background color */
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }
 
 h1 {
-    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 500;
     color: #000000;
+    /* letter-spacing: 1px; */
+    /* text-transform: uppercase; */
 }
-
 h2 {
     font-size: 18px;
     color: #4a4a4a;
     margin-bottom: 10px;
 }
-
 
 .chart-container {
     width: 80%;
@@ -51,4 +63,9 @@ h2 {
     padding: 20px;
 }
 
-/* Add more custom styles as needed */
+.header-divider {
+    border: 0;
+    height: 1px;
+    background-color: #ccc;
+    margin: 0;
+}

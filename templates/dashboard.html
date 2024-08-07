@@ -10,10 +10,12 @@
 </head>
 <body>
     <div class="header-content">
-        <img src="{{ url_for('static', filename='images/Sonoma Brands Capital Logo.png') }}" alt="Sonoma Brands Capital" class="logo">
+        <a href="https://www.sonomabrands.com/">
+            <img src="{{ url_for('static', filename='images/Sonoma Brands Capital Logo.png') }}" alt="Sonoma Brands Capital" class="logo">
+        </a>
         <h1>Know Your Viral Brands</h1>
     </div>
-    
+    <hr class="header-divider">
     <div class="chart-container">
         <canvas id="followersChart"></canvas>
     </div>
