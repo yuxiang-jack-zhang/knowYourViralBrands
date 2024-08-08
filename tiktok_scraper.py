@@ -2,15 +2,23 @@
 from TikTokApi import TikTokApi
 import asyncio
 import os, json
+import pandas as pd
 
 # import mongoDB packages
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
 # import custom helper functions
-from helper import get_brand_username
+from helper import get_brand_username, mongo_login
 
 ms_token = os.environ.get("ms_token", None) # get your own ms_token from your cookies on tiktok.com
+MONGO_URI = os.environ.get("MONGO_URI")
+# Fetch data from MongoDB
+client = mongo_login(MONGO_URI)
+# Select the database and collection
+db = client['knowYourViralBrands']
+collection = db['TikTokAccount']
+brandname2username_collection = db['brandname2username']
 
 async def get_user_data(usernames):
     """
@@ -57,22 +65,6 @@ def backup(new_data, fname="backup.json"):
     return 
 
 def upload_to_mongo(data=None):
-    MONGO_URI = "mongodb+srv://jackzhang1298:youlanjiyi@sbcluster.surcdnj.mongodb.net/?retryWrites=true&w=majority&appName=SBCluster"
-
-    # Create a new client and connect to the server
-    client = MongoClient(MONGO_URI, server_api=ServerApi('1'))
-
-    # Send a ping to confirm a successful connection
-    try:
-        client.admin.command('ping')
-        print("Pinged your deployment. You successfully connected to MongoDB.")
-    except Exception as e:
-        print(e)
-
-    # Select the database and collection
-    db = client['knowYourViralBrands']
-    collection = db['TikTokAccount']
-
     # load data if it's not passed in
     if not data:
         with open("tiktok_data_user.json", 'r') as file:
@@ -90,6 +82,10 @@ def main(outname = "tiktok_data_user.json"):
     """
     # load file that maps brand name to tiktok username
     (df, brands, usernames) = get_brand_username()
+    dicts_names = list(brandname2username_collection.find())
+    df = pd.DataFrame(dicts_names)
+    brands = [i['brandName'] for i in dicts_names]
+    usernames = [i['tiktokUsername'] for i in dicts_names]
 
     # scrape current user data
     dicts = asyncio.run(get_user_data(usernames))

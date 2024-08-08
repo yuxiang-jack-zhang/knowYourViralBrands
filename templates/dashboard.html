@@ -108,14 +108,16 @@
         }
     </script>
 
-    <button id="addBrandBtn">Add Brand</button>
+    <div class="button-container">
+        <button id="addBrandBtn" class="modern-button">Add Brand</button>
+    </div>
 
     <div id="addBrandModal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
             <h2>Add Brand</h2>
             <form id="addBrandForm">
-                <label for="warningMessage">WARNING: To avoid scraper errors, please double check for: 1. No typos, 2. no unnecessary whitespace, 3. no duplicate brands!</label>
+                <label for="warningMessage">WARNING: To avoid scraper errors, please double check for: 1. No typos, 2. no unnecessary whitespace in TikTok Username, 3. no duplicate brands!</label>
                 <br>
                 <label for="brandName">Brand Name:</label>
                 <input type="text" id="brandName" name="brandName" required>

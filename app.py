@@ -18,7 +18,7 @@ app = Flask(__name__)
 CORS(app)
 
 # MongoDB Atlas connection string
-MONGO_URI = "mongodb+srv://jackzhang1298:youlanjiyi@sbcluster.surcdnj.mongodb.net/?retryWrites=true&w=majority&appName=SBCluster"
+MONGO_URI = os.environ.get("MONGO_URI")
 # Fetch data from MongoDB
 client = mongo_login(MONGO_URI)
 # Select the database and collection

@@ -70,6 +70,33 @@ h2 {
     margin: 0;
 }
 
+/* add brand button */
+
+.modern-button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    outline: none;
+}
+
+.modern-button:hover {
+    background-color: #2980b9;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.modern-button:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
 .modal {
     display: none;
     position: fixed;
@@ -86,9 +113,11 @@ h2 {
     background-color: #fefefe;
     margin: 15% auto;
     padding: 20px;
-    border: 1px solid #888;
+    border: none;
+    border-radius: 8px;
     width: 80%;
     max-width: 500px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .close {
@@ -97,11 +126,53 @@ h2 {
     font-size: 28px;
     font-weight: bold;
     cursor: pointer;
+    transition: color 0.3s ease;
 }
 
 .close:hover,
 .close:focus {
-    color: black;
+    color: #2c3e50;
     text-decoration: none;
+}
+
+/* Add styles for form elements */
+.button-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+input[type="text"] {
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+button[type="submit"] {
+    margin-top: 20px;
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
     cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #27ae60;
 }
