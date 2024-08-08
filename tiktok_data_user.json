@@ -2,14 +2,14 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20240807155955592F2E580930C30AA67A",
-      "now": 1723046396000
+      "logid": "20240808190730BCB6A412831F701A8338",
+      "now": 1723144050000
     },
     "log_pb": {
-      "impr_id": "20240807155955592F2E580930C30AA67A"
+      "impr_id": "20240808190730BCB6A412831F701A8338"
     },
     "shareMeta": {
-      "desc": "@oatsovernight 134.5k Followers, 708 Following, 1.8m Likes - Watch awesome short videos created by Oats Overnight",
+      "desc": "@oatsovernight 134.6k Followers, 708 Following, 1.8m Likes - Watch awesome short videos created by Oats Overnight",
       "title": "Oats Overnight on TikTok"
     },
     "statusCode": 0,
@@ -18,17 +18,17 @@
     "userInfo": {
       "stats": {
         "diggCount": 0,
-        "followerCount": 134500,
+        "followerCount": 134600,
         "followingCount": 708,
         "friendCount": 75,
         "heart": 1800000,
         "heartCount": 1800000,
-        "videoCount": 1021
+        "videoCount": 1026
       },
       "user": {
-        "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/70326ea49cd2c78e375f6626598b8161~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=93546&refresh_token=b83c8ef060901621456af3343e31b730&x-expires=1723215600&x-signature=TcZiGwav2HCvgTipsSKCBXRV%2FdI%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/70326ea49cd2c78e375f6626598b8161~c5_720x720.jpeg?lk3s=a5d48078&nonce=93788&refresh_token=6ef592783322f9c1be21b3696dd7246e&x-expires=1723215600&x-signature=V5cTZ9NNx4jx0xwdiDtn%2FGRcGfM%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/70326ea49cd2c78e375f6626598b8161~c5_100x100.jpeg?lk3s=a5d48078&nonce=52539&refresh_token=c832d1ff592f3b1cc9ac16f1a96e6641&x-expires=1723215600&x-signature=%2FvwmxlqrRcNgvCYu44vXiJ%2FKK%2Fw%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/70326ea49cd2c78e375f6626598b8161~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=18852&refresh_token=2468327c58dbef489f5e12477bd20bd0&x-expires=1723316400&x-signature=AMGG%2FMmOCwK8LiSbtbb%2F9t8rpq0%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/70326ea49cd2c78e375f6626598b8161~c5_720x720.jpeg?lk3s=a5d48078&nonce=11786&refresh_token=6592390b6e439176a27f43c03b9a1ea1&x-expires=1723316400&x-signature=Gu%2FRhIcTot63j%2FLNy%2B1sX5o%2FJiM%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/70326ea49cd2c78e375f6626598b8161~c5_100x100.jpeg?lk3s=a5d48078&nonce=31401&refresh_token=74d33430dbdc25f419e3931dc71e5eb7&x-expires=1723316400&x-signature=oBCpzBYSqXu8Sw5Bb6x9uWPR31Q%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "oatsovernight.com",
           "risk": 3
@@ -72,11 +72,11 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "202408071559566E2F8BD1D5D0490AC470",
-      "now": 1723046396000
+      "logid": "2024080819073009B30942AB41C319B4DF",
+      "now": 1723144050000
     },
     "log_pb": {
-      "impr_id": "202408071559566E2F8BD1D5D0490AC470"
+      "impr_id": "2024080819073009B30942AB41C319B4DF"
     },
     "shareMeta": {
       "desc": "@kodiakcakes 210.2k Followers, 95 Following, 2.1m Likes - Watch awesome short videos created by KodiakCakes",
@@ -96,9 +96,9 @@
         "videoCount": 298
       },
       "user": {
-        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7345947174598869035~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=73166&refresh_token=c5d8e1a8de8cd871e86357367b2bdef8&x-expires=1723215600&x-signature=AiXAFjOtqGXLq3eHypmDaznTBng%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7345947174598869035~c5_720x720.jpeg?lk3s=a5d48078&nonce=4388&refresh_token=b03baedaeeea0368750f56303b5bf642&x-expires=1723215600&x-signature=%2FFSwYnE9U2VF94FudjJHqcPhepU%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7345947174598869035~c5_100x100.jpeg?lk3s=a5d48078&nonce=36783&refresh_token=06c7f3f244255ebd633a09def74ed8e9&x-expires=1723215600&x-signature=uOfGLP1oJwRGBgaxT%2BqA1rjnl0s%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7345947174598869035~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=71963&refresh_token=1781a433f170dee340e385cf227fb049&x-expires=1723316400&x-signature=cyvbhiBHOV1h%2BvMxTnI0cNKaJSQ%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7345947174598869035~c5_720x720.jpeg?lk3s=a5d48078&nonce=58276&refresh_token=a3c61a2137a6974260512c6db48d4af5&x-expires=1723316400&x-signature=l7uwVCQR2mCFABr1fTzXJfcWFkY%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7345947174598869035~c5_100x100.jpeg?lk3s=a5d48078&nonce=27390&refresh_token=799d61ea18f978df2a377546e440ce99&x-expires=1723316400&x-signature=aHq82qUXhgRxqyYhmGpaaQ10YAI%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "empli.fi/kodiakcakes",
           "risk": 3
@@ -138,14 +138,14 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20240807155956FC64108C6DB0510B302E",
-      "now": 1723046396000
+      "logid": "202408081907301046E40D49B55416F54C",
+      "now": 1723144051000
     },
     "log_pb": {
-      "impr_id": "20240807155956FC64108C6DB0510B302E"
+      "impr_id": "202408081907301046E40D49B55416F54C"
     },
     "shareMeta": {
-      "desc": "@mush 5563 Followers, 502 Following, 106.7k Likes - Watch awesome short videos created by MUSH",
+      "desc": "@mush 5571 Followers, 502 Following, 106.8k Likes - Watch awesome short videos created by MUSH",
       "title": "MUSH on TikTok"
     },
     "statusCode": 0,
@@ -154,17 +154,17 @@
     "userInfo": {
       "stats": {
         "diggCount": 0,
-        "followerCount": 5563,
+        "followerCount": 5571,
         "followingCount": 502,
         "friendCount": 187,
-        "heart": 106700,
-        "heartCount": 106700,
+        "heart": 106800,
+        "heartCount": 106800,
         "videoCount": 249
       },
       "user": {
-        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2451bf5bf5a0906cf78dd153c48953b6~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=99961&refresh_token=b7e117080dab76127553f864ff50ee98&x-expires=1723215600&x-signature=fQOUMSUiBY9hRkBwu4EZNnKxIF8%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2451bf5bf5a0906cf78dd153c48953b6~c5_720x720.jpeg?lk3s=a5d48078&nonce=91829&refresh_token=80e484cdf80dac862c87d39114401b2a&x-expires=1723215600&x-signature=IgQ%2FdMovvAw6%2BOBsmsQXFVuAOzk%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2451bf5bf5a0906cf78dd153c48953b6~c5_100x100.jpeg?lk3s=a5d48078&nonce=29888&refresh_token=60621657df9df7d01d587633339ee368&x-expires=1723215600&x-signature=JP96zlLicUiWkXeTxiFfAzRuDP8%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2451bf5bf5a0906cf78dd153c48953b6~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=67660&refresh_token=4303d9e7fd5e9ba28603dfffd5d3e127&x-expires=1723316400&x-signature=mIKooya55JVQZIlhtEqOVy8%2Be3Q%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2451bf5bf5a0906cf78dd153c48953b6~c5_720x720.jpeg?lk3s=a5d48078&nonce=99966&refresh_token=1cf188ea622f6a80888ccddf32dab06c&x-expires=1723316400&x-signature=TM3JGkeAAgUpmZPEuQ7pSvL0Krk%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2451bf5bf5a0906cf78dd153c48953b6~c5_100x100.jpeg?lk3s=a5d48078&nonce=92934&refresh_token=50f320fff72cfe26463586147205f106&x-expires=1723316400&x-signature=SQTCvh5pzNgZ7HqR%2Bj9YLr1QPyw%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "https://linktr.ee/eatmush",
           "risk": 0
@@ -209,11 +209,11 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20240807155956653395B4DCE35F09FF10",
-      "now": 1723046396000
+      "logid": "202408081907313F84CD63E186FE196B6D",
+      "now": 1723144051000
     },
     "log_pb": {
-      "impr_id": "20240807155956653395B4DCE35F09FF10"
+      "impr_id": "202408081907313F84CD63E186FE196B6D"
     },
     "shareMeta": {
       "desc": "@quaker 21.8k Followers, 22 Following, 152.7k Likes - Watch awesome short videos created by Quaker Oats",
@@ -233,9 +233,9 @@
         "videoCount": 128
       },
       "user": {
-        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/768f0d1434c06c7131074da4082d1dd5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=9089&refresh_token=929d86fbf8c4cbe8f4d1a97f69682681&x-expires=1723215600&x-signature=417I9xvgcqB311GTq3jEwWBtteY%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/768f0d1434c06c7131074da4082d1dd5~c5_720x720.jpeg?lk3s=a5d48078&nonce=40481&refresh_token=317ac75186e97224d7b2f7a438910dee&x-expires=1723215600&x-signature=QcleTfEb%2B2mO9xY0aroi6VviJnI%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/768f0d1434c06c7131074da4082d1dd5~c5_100x100.jpeg?lk3s=a5d48078&nonce=51463&refresh_token=c0665ab085e4994e95dae5d150816be2&x-expires=1723215600&x-signature=WmnAFhTn6zD0ImTvEwWk5Fd4q3s%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/768f0d1434c06c7131074da4082d1dd5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=65682&refresh_token=cf77ca6cdf0f8001610871440688dd1f&x-expires=1723316400&x-signature=0Zf%2B3K9Cn34jx4lSXK9q0JrIaAQ%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/768f0d1434c06c7131074da4082d1dd5~c5_720x720.jpeg?lk3s=a5d48078&nonce=83821&refresh_token=a54b89a4c652827c590d433ef532d9c4&x-expires=1723316400&x-signature=okfbCjL23zmlWOoPvZoTLRBKqHw%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/768f0d1434c06c7131074da4082d1dd5~c5_100x100.jpeg?lk3s=a5d48078&nonce=5482&refresh_token=74a69082867b7dc975713ace8b6306eb&x-expires=1723316400&x-signature=fyXueCEeLjF2taqQ2N6%2B6M7XKPU%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "https://www.quakeroats.com/pickleball",
           "risk": 3
@@ -280,14 +280,14 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "202408071559570A1FA5DA62B3F909D409",
-      "now": 1723046397000
+      "logid": "20240808190731F954DB2F6A654F19C12C",
+      "now": 1723144052000
     },
     "log_pb": {
-      "impr_id": "202408071559570A1FA5DA62B3F909D409"
+      "impr_id": "20240808190731F954DB2F6A654F19C12C"
     },
     "shareMeta": {
-      "desc": "@magicspooncereal 24.6k Followers, 281 Following, 358.2k Likes - Watch awesome short videos created by Magic Spoon",
+      "desc": "@magicspooncereal 24.6k Followers, 282 Following, 358.2k Likes - Watch awesome short videos created by Magic Spoon",
       "title": "Magic Spoon on TikTok"
     },
     "statusCode": 0,
@@ -297,16 +297,16 @@
       "stats": {
         "diggCount": 0,
         "followerCount": 24600,
-        "followingCount": 281,
+        "followingCount": 282,
         "friendCount": 134,
         "heart": 358200,
         "heartCount": 358200,
         "videoCount": 599
       },
       "user": {
-        "avatarLarger": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7344092026788380714~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=42148&refresh_token=58c47df8189870bdc53d7adca707bae7&x-expires=1723215600&x-signature=M6AH75MN8jgg0%2BMFhnjMDkme0Hk%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7344092026788380714~c5_720x720.jpeg?lk3s=a5d48078&nonce=48627&refresh_token=4f815efcc5d06921d26693642aa8cf07&x-expires=1723215600&x-signature=tAykgO2399pvBASGFiO4Eg9PUPg%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7344092026788380714~c5_100x100.jpeg?lk3s=a5d48078&nonce=29421&refresh_token=f66b45dc9111057bec12ba409caff970&x-expires=1723215600&x-signature=uuN6Gd%2FiD9r5XzrpYZiMNlMfTkw%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7344092026788380714~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=44312&refresh_token=2c44d0c4d6479fbcc0ffc895f1cebf11&x-expires=1723316400&x-signature=ZAXnAeAWYHGzuQYJeQPQIeWqg3g%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7344092026788380714~c5_720x720.jpeg?lk3s=a5d48078&nonce=84079&refresh_token=a6cfb1653eb90e3cf9dbc87f1f096e75&x-expires=1723316400&x-signature=VtKgDnpU%2BZNbQ9fNeX4ha06zeXo%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7344092026788380714~c5_100x100.jpeg?lk3s=a5d48078&nonce=94944&refresh_token=172dc86ff5c08c4879427cc526ea6f06&x-expires=1723316400&x-signature=BxfUTEGmFFx21ZtpL2GomqoyS9I%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "https://linktr.ee/magicspooncereal",
           "risk": 0
@@ -348,14 +348,14 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "202408071559571533196934C8BD0CF69B",
-      "now": 1723046397000
+      "logid": "2024080819073276D0EB8D8D6183172464",
+      "now": 1723144052000
     },
     "log_pb": {
-      "impr_id": "202408071559571533196934C8BD0CF69B"
+      "impr_id": "2024080819073276D0EB8D8D6183172464"
     },
     "shareMeta": {
-      "desc": "@birchbenders 3916 Followers, 62 Following, 197.5k Likes - Watch awesome short videos created by Birch Benders",
+      "desc": "@birchbenders 3925 Followers, 62 Following, 197.8k Likes - Watch awesome short videos created by Birch Benders",
       "title": "Birch Benders on TikTok"
     },
     "statusCode": 0,
@@ -364,17 +364,17 @@
     "userInfo": {
       "stats": {
         "diggCount": 0,
-        "followerCount": 3916,
+        "followerCount": 3925,
         "followingCount": 62,
         "friendCount": 22,
-        "heart": 197500,
-        "heartCount": 197500,
-        "videoCount": 262
+        "heart": 197800,
+        "heartCount": 197800,
+        "videoCount": 264
       },
       "user": {
-        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b44c2c01bc0c9a3cc7ff614854786f77~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=33995&refresh_token=5d13cef56a7edd0249437ead924d2e33&x-expires=1723215600&x-signature=q9a9QbfhSNBg37u1Tmkn6xAzx4E%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b44c2c01bc0c9a3cc7ff614854786f77~c5_720x720.jpeg?lk3s=a5d48078&nonce=36386&refresh_token=8e4e72878df01ecc59f9036798f940fb&x-expires=1723215600&x-signature=t6dvRMcSiwwtYhY2iJtleQHNvJY%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b44c2c01bc0c9a3cc7ff614854786f77~c5_100x100.jpeg?lk3s=a5d48078&nonce=63718&refresh_token=154ffd935d73e38ac7560da54f5d33b4&x-expires=1723215600&x-signature=5pHU7vjqRN5%2BeDpw0rZAGESkmCQ%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b44c2c01bc0c9a3cc7ff614854786f77~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=49862&refresh_token=e5bc58184668911f08f7a60f220d1957&x-expires=1723316400&x-signature=Sw8EPfCTptdBnZ6ajPAn3GR9NuQ%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b44c2c01bc0c9a3cc7ff614854786f77~c5_720x720.jpeg?lk3s=a5d48078&nonce=62634&refresh_token=9e78c2d7f3be67629cce14b1b387be34&x-expires=1723316400&x-signature=W6mXpIcZthfTh4RLLRAShgReihA%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b44c2c01bc0c9a3cc7ff614854786f77~c5_100x100.jpeg?lk3s=a5d48078&nonce=5218&refresh_token=6ca0c676e9c686e6500a8fde50d5c447&x-expires=1723316400&x-signature=fkVADSYpbee1T4wRZLp8vY%2F7Bhw%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "https://birchbenders.com",
           "risk": 0
@@ -414,14 +414,14 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20240807155957939D8F6D9765C10A6D6C",
-      "now": 1723046397000
+      "logid": "20240808190732E38ACF2A51EF5A19B862",
+      "now": 1723144053000
     },
     "log_pb": {
-      "impr_id": "20240807155957939D8F6D9765C10A6D6C"
+      "impr_id": "20240808190732E38ACF2A51EF5A19B862"
     },
     "shareMeta": {
-      "desc": "@catalinacrunch 5515 Followers, 92 Following, 146.9k Likes - Watch awesome short videos created by Catalina Crunch",
+      "desc": "@catalinacrunch 5513 Followers, 92 Following, 146.9k Likes - Watch awesome short videos created by Catalina Crunch",
       "title": "Catalina Crunch on TikTok"
     },
     "statusCode": 0,
@@ -430,7 +430,7 @@
     "userInfo": {
       "stats": {
         "diggCount": 0,
-        "followerCount": 5515,
+        "followerCount": 5513,
         "followingCount": 92,
         "friendCount": 56,
         "heart": 146900,
@@ -438,9 +438,9 @@
         "videoCount": 357
       },
       "user": {
-        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21036605b26e10823b7ef94873943f68~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=22477&refresh_token=667b3099578ab80792aaa6dc05ceaedb&x-expires=1723215600&x-signature=HWckORP0Azku5YDnw6qRLxQqvRo%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21036605b26e10823b7ef94873943f68~c5_720x720.jpeg?lk3s=a5d48078&nonce=15852&refresh_token=427a845efd1feed229f86d6f04593063&x-expires=1723215600&x-signature=0l5Gr21JdGPXAcjVrF%2B3xXUt%2Bok%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21036605b26e10823b7ef94873943f68~c5_100x100.jpeg?lk3s=a5d48078&nonce=85350&refresh_token=bbbb8aa3ec84adfe689b7c3f387698e8&x-expires=1723215600&x-signature=wRjeQeYyX1JWEeRgxPLimB8W2P4%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21036605b26e10823b7ef94873943f68~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=45519&refresh_token=cfa48f4dac56b75a48b5216bf1e81806&x-expires=1723316400&x-signature=RJN8FqEP70AjrUz9t7lbRxT9ZF4%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21036605b26e10823b7ef94873943f68~c5_720x720.jpeg?lk3s=a5d48078&nonce=68701&refresh_token=924ac790ccdab2adb8f1732ab77f8f4d&x-expires=1723316400&x-signature=hjqBZ5pnoHS0SE0C02Y0w3aKWr0%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21036605b26e10823b7ef94873943f68~c5_100x100.jpeg?lk3s=a5d48078&nonce=1364&refresh_token=54d78142adc0befd63d04033e563406e&x-expires=1723316400&x-signature=tBMw87iwlfQAy%2FW4ZnGy5xFfpt0%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "catalinacrunch.com",
           "risk": 3
@@ -485,14 +485,14 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "2024080715595719133DC68BDC840A5A1A",
-      "now": 1723046398000
+      "logid": "2024080819073315BC37B5F5D38A199E95",
+      "now": 1723144053000
     },
     "log_pb": {
-      "impr_id": "2024080715595719133DC68BDC840A5A1A"
+      "impr_id": "2024080819073315BC37B5F5D38A199E95"
     },
     "shareMeta": {
-      "desc": "@purely_elizabeth 106.8k Followers, 386 Following, 691.6k Likes - Watch awesome short videos created by Purely Elizabeth",
+      "desc": "@purely_elizabeth 106.8k Followers, 386 Following, 691.7k Likes - Watch awesome short videos created by Purely Elizabeth",
       "title": "Purely Elizabeth on TikTok"
     },
     "statusCode": 0,
@@ -504,14 +504,14 @@
         "followerCount": 106800,
         "followingCount": 386,
         "friendCount": 98,
-        "heart": 691600,
-        "heartCount": 691600,
+        "heart": 691700,
+        "heartCount": 691700,
         "videoCount": 508
       },
       "user": {
-        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f9d8daf47f57d6f1f36083250de8017~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=38798&refresh_token=944bc34e2a95748f556c85298f61f2bf&x-expires=1723215600&x-signature=GIHBLHiiSdbZXMg06yqK4oBKMus%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f9d8daf47f57d6f1f36083250de8017~c5_720x720.jpeg?lk3s=a5d48078&nonce=8041&refresh_token=c1bef3e8c20c52ae55a1dc79f6d2c2df&x-expires=1723215600&x-signature=GtcY38iGp01glAjBWxyU0s17RFU%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f9d8daf47f57d6f1f36083250de8017~c5_100x100.jpeg?lk3s=a5d48078&nonce=88943&refresh_token=f7e53070542d7bb4310a8cd31cbfe1a4&x-expires=1723215600&x-signature=P0%2FnhYsn%2FYgn5hcPr7aIMS8sz0U%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f9d8daf47f57d6f1f36083250de8017~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=29376&refresh_token=a94c1bfa03a26c5d195affe51a20812b&x-expires=1723316400&x-signature=Ox1tIoD0TN29xRI7R7rQ%2BC5ZJYA%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f9d8daf47f57d6f1f36083250de8017~c5_720x720.jpeg?lk3s=a5d48078&nonce=66761&refresh_token=bb02ba6ac5e8ab7889edd539745fa227&x-expires=1723316400&x-signature=pI6WcjEEYbEyCI77Ys9juZwS3KY%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f9d8daf47f57d6f1f36083250de8017~c5_100x100.jpeg?lk3s=a5d48078&nonce=54895&refresh_token=c1759a05316b672fdd870d5be829fcef&x-expires=1723316400&x-signature=%2FHCb8oJuSORzZ9stCRIbOQj17ww%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "https://linkin.bio/purely_elizabeth",
           "risk": 3
@@ -556,11 +556,11 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20240807155958DEA613A37B757F0AEA25",
-      "now": 1723046398000
+      "logid": "2024080819073300DCB5BF39E7B71A4C39",
+      "now": 1723144053000
     },
     "log_pb": {
-      "impr_id": "20240807155958DEA613A37B757F0AEA25"
+      "impr_id": "2024080819073300DCB5BF39E7B71A4C39"
     },
     "shareMeta": {
       "desc": "@eatovernightoats 6016 Followers, 529 Following, 98.6k Likes - Watch awesome short videos created by ONO Protein Oats",
@@ -580,9 +580,9 @@
         "videoCount": 633
       },
       "user": {
-        "avatarLarger": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312197804032524331~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=46264&refresh_token=06aac26fba5ae6c9e2c7820eaa07a18d&x-expires=1723215600&x-signature=NNaJbbaampd3zOIP%2BzMuDk6Xy%2FQ%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312197804032524331~c5_720x720.jpeg?lk3s=a5d48078&nonce=99644&refresh_token=a177f95693acf170a1c97d7321a7c2ee&x-expires=1723215600&x-signature=nY5%2F1Zqmzn2L4ysm8zT6Ws2OuDk%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312197804032524331~c5_100x100.jpeg?lk3s=a5d48078&nonce=51551&refresh_token=1657a7871fd43d632bf7d9b5f94defd1&x-expires=1723215600&x-signature=VXCzkV8s0vHQXLn9fC2cAO1JbmY%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312197804032524331~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=21230&refresh_token=fc86978de9e7928341696882dbf048df&x-expires=1723316400&x-signature=It%2FhaySZDSL3VtoqJVahJ2lxlDI%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312197804032524331~c5_720x720.jpeg?lk3s=a5d48078&nonce=5467&refresh_token=f1e1e2c32b2bf038d5882466782d4aac&x-expires=1723316400&x-signature=EDnmPq%2BSg74OVHCrciiv5%2FJvAlI%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312197804032524331~c5_100x100.jpeg?lk3s=a5d48078&nonce=26099&refresh_token=f5301982c09aab465f24ba1c220783f9&x-expires=1723316400&x-signature=nb4a9mjqtTel6mWsaOpyvzn%2FYKo%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "https://www.amazon.com/stores/page/18394D74-6D52-4334-8614-949D3A1C4E2B?ingress=2&visitId=c2247502-54a2-4097-be53-ea017087ec93&ref_=ast_bln",
           "risk": 0
@@ -624,11 +624,11 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20240807155958303149D34B532208D833",
-      "now": 1723046398000
+      "logid": "20240808190733E38ACF2A51EF5A19B88E",
+      "now": 1723144054000
     },
     "log_pb": {
-      "impr_id": "20240807155958303149D34B532208D833"
+      "impr_id": "20240808190733E38ACF2A51EF5A19B88E"
     },
     "shareMeta": {
       "desc": "@yishifoods 20.6k Followers, 178 Following, 1.4m Likes - Watch awesome short videos created by Yishi Foods",
@@ -648,9 +648,9 @@
         "videoCount": 283
       },
       "user": {
-        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14a841ed1da23a2312f3b92cf62c1d5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=60064&refresh_token=87fcfd8428938ad49efeb9c7706dca2a&x-expires=1723215600&x-signature=oHozN3WDQIGcw9F8CLu%2F6JQmjgI%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14a841ed1da23a2312f3b92cf62c1d5~c5_720x720.jpeg?lk3s=a5d48078&nonce=75146&refresh_token=2499df2b298ec4931779da7909eec0af&x-expires=1723215600&x-signature=stGi5CPvw8wAKLy5vxh%2BVscjT%2FQ%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14a841ed1da23a2312f3b92cf62c1d5~c5_100x100.jpeg?lk3s=a5d48078&nonce=63631&refresh_token=4e3e10cd1f5191213152c795f66be2da&x-expires=1723215600&x-signature=QqztJhcLGxQicwwl3jy%2BGqr%2B%2Bxo%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14a841ed1da23a2312f3b92cf62c1d5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=94401&refresh_token=a1c1ad0710a5dc28364076e7bddaeda2&x-expires=1723316400&x-signature=NsZpnTWu9%2FEF5bx6%2FW82TWITkc4%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14a841ed1da23a2312f3b92cf62c1d5~c5_720x720.jpeg?lk3s=a5d48078&nonce=47670&refresh_token=590e809f3581bb116dcfdbc320b5a14f&x-expires=1723316400&x-signature=Jz34hjVKnyfS3uJTh6CBF2R0dCg%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14a841ed1da23a2312f3b92cf62c1d5~c5_100x100.jpeg?lk3s=a5d48078&nonce=35324&refresh_token=68e9a4b764bce18308b913afd8da49b8&x-expires=1723316400&x-signature=9mD9XejZftBGQzSXS%2BojwluRYPc%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "https://linktr.ee/yishifoods",
           "risk": 0
@@ -692,11 +692,11 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20240807155958B62D6CA69B4BDE09ECF8",
-      "now": 1723046398000
+      "logid": "20240808190734A2E3E2B09BC5E9192EA6",
+      "now": 1723144054000
     },
     "log_pb": {
-      "impr_id": "20240807155958B62D6CA69B4BDE09ECF8"
+      "impr_id": "20240808190734A2E3E2B09BC5E9192EA6"
     },
     "shareMeta": {
       "desc": "@mylklabs 514 Followers, 28 Following, 20.8k Likes - Watch awesome short videos created by Mylk Labs",
@@ -713,12 +713,12 @@
         "friendCount": 11,
         "heart": 20800,
         "heartCount": 20800,
-        "videoCount": 493
+        "videoCount": 494
       },
       "user": {
-        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7351462727631503402~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=24557&refresh_token=44b7848997c06805ab8159956a8763d4&x-expires=1723215600&x-signature=WdJmcGlPCL5llX9yf1FXJWpixe0%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7351462727631503402~c5_720x720.jpeg?lk3s=a5d48078&nonce=80627&refresh_token=ee511dbbfe1b5c4c2b5bd942b654b8aa&x-expires=1723215600&x-signature=uKThqgaBkjoLbJ6carix55sRkjM%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7351462727631503402~c5_100x100.jpeg?lk3s=a5d48078&nonce=36166&refresh_token=f8a23d15bb003c6efc1b356fc9ccaf5b&x-expires=1723215600&x-signature=S9%2BS0ch5%2Fbip7kF%2BoY4SqHBcsp8%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7351462727631503402~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=70008&refresh_token=acadca3fbdea0b281cbca3433c804cea&x-expires=1723316400&x-signature=Mk0KUkQzvBL3iUFvkvg104VAsHg%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7351462727631503402~c5_720x720.jpeg?lk3s=a5d48078&nonce=8441&refresh_token=c5708082da3c219f40070ccdc0c72d3d&x-expires=1723316400&x-signature=UFx7TPc%2F5py9qWt6Yt0QP3BUwRA%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7351462727631503402~c5_100x100.jpeg?lk3s=a5d48078&nonce=90753&refresh_token=a3f49037295aae82661d97ee81409211&x-expires=1723316400&x-signature=V3LcO%2B2521ahVTYR4hUY1GsqqZw%3D&shp=a5d48078&shcp=81f88b70",
         "canExpPlaylist": true,
         "commentSetting": 0,
         "commerceUserInfo": {
@@ -755,14 +755,14 @@
   {
     "extra": {
       "fatal_item_ids": [],
-      "logid": "20240807155959B432634808EBA20A3AA8",
-      "now": 1723046399000
+      "logid": "20240808190734FCBB4CCA89316B194275",
+      "now": 1723144054000
     },
     "log_pb": {
-      "impr_id": "20240807155959B432634808EBA20A3AA8"
+      "impr_id": "20240808190734FCBB4CCA89316B194275"
     },
     "shareMeta": {
-      "desc": "@bobsredmill 18.1k Followers, 279 Following, 461.0k Likes - Watch awesome short videos created by Bob\u2019s Red Mill",
+      "desc": "@bobsredmill 18.1k Followers, 279 Following, 461.1k Likes - Watch awesome short videos created by Bob\u2019s Red Mill",
       "title": "Bob\u2019s Red Mill on TikTok"
     },
     "statusCode": 0,
@@ -774,14 +774,14 @@
         "followerCount": 18100,
         "followingCount": 279,
         "friendCount": 126,
-        "heart": 461000,
-        "heartCount": 461000,
-        "videoCount": 473
+        "heart": 461100,
+        "heartCount": 461100,
+        "videoCount": 475
       },
       "user": {
-        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d412ce99371986f309c15e559a279f96~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=97241&refresh_token=303183bf302eca8d268950fc754fdd46&x-expires=1723215600&x-signature=APcMT7IlNAzBD9g5H82jLy0VRrY%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d412ce99371986f309c15e559a279f96~c5_720x720.jpeg?lk3s=a5d48078&nonce=5077&refresh_token=8a5683d7e64ef03cb01008ff0a089b12&x-expires=1723215600&x-signature=HZJ5Syp8NMiKc8%2FURQhjmedoYhA%3D&shp=a5d48078&shcp=81f88b70",
-        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d412ce99371986f309c15e559a279f96~c5_100x100.jpeg?lk3s=a5d48078&nonce=43917&refresh_token=3c71f27c936793924d6bfba0b7d1a77e&x-expires=1723215600&x-signature=5yxaVuGIfMzN211OSO89K%2BOg%2B3M%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d412ce99371986f309c15e559a279f96~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=97119&refresh_token=a9e6d82ff782124b41e5191f0eb0e28f&x-expires=1723316400&x-signature=otuvRDB6xeBpk9EtyTYeXoNY%2FJs%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d412ce99371986f309c15e559a279f96~c5_720x720.jpeg?lk3s=a5d48078&nonce=4948&refresh_token=a141e7933e95489dc483ae07d0645927&x-expires=1723316400&x-signature=c7VUKTXPBrr3N8lE3AILlUaDng0%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d412ce99371986f309c15e559a279f96~c5_100x100.jpeg?lk3s=a5d48078&nonce=41804&refresh_token=b3e11036e10283612eb97c46f35d4e40&x-expires=1723316400&x-signature=IhXjNDfX8wilF0JeUGW75Ni5v%2BM%3D&shp=a5d48078&shcp=81f88b70",
         "bioLink": {
           "link": "Sprout.link/bobsredmill",
           "risk": 3

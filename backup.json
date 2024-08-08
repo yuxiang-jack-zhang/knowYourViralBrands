@@ -5867,5 +5867,824 @@
         "verified": true
       }
     }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240808190730BCB6A412831F701A8338",
+      "now": 1723144050000
+    },
+    "log_pb": {
+      "impr_id": "20240808190730BCB6A412831F701A8338"
+    },
+    "shareMeta": {
+      "desc": "@oatsovernight 134.6k Followers, 708 Following, 1.8m Likes - Watch awesome short videos created by Oats Overnight",
+      "title": "Oats Overnight on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 134600,
+        "followingCount": 708,
+        "friendCount": 75,
+        "heart": 1800000,
+        "heartCount": 1800000,
+        "videoCount": 1026
+      },
+      "user": {
+        "avatarLarger": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/70326ea49cd2c78e375f6626598b8161~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=18852&refresh_token=2468327c58dbef489f5e12477bd20bd0&x-expires=1723316400&x-signature=AMGG%2FMmOCwK8LiSbtbb%2F9t8rpq0%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/70326ea49cd2c78e375f6626598b8161~c5_720x720.jpeg?lk3s=a5d48078&nonce=11786&refresh_token=6592390b6e439176a27f43c03b9a1ea1&x-expires=1723316400&x-signature=Gu%2FRhIcTot63j%2FLNy%2B1sX5o%2FJiM%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/70326ea49cd2c78e375f6626598b8161~c5_100x100.jpeg?lk3s=a5d48078&nonce=31401&refresh_token=74d33430dbdc25f419e3931dc71e5eb7&x-expires=1723316400&x-signature=oBCpzBYSqXu8Sw5Bb6x9uWPR31Q%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "oatsovernight.com",
+          "risk": 3
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Shopping & Retail",
+          "categoryButton": false,
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          }
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "6729962349955367941",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickname": "Oats Overnight",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": false
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAAlA5CWla4mRlX66QKZSy_kHf9qitWXBQ4BkP12dfqKDxOUb9jLPDavsD-jQqYS5es",
+        "secret": false,
+        "signature": "that\u2019s oatbiz baby.",
+        "stitchSetting": 0,
+        "ttSeller": false,
+        "uniqueId": "oatsovernight",
+        "verified": true
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "2024080819073009B30942AB41C319B4DF",
+      "now": 1723144050000
+    },
+    "log_pb": {
+      "impr_id": "2024080819073009B30942AB41C319B4DF"
+    },
+    "shareMeta": {
+      "desc": "@kodiakcakes 210.2k Followers, 95 Following, 2.1m Likes - Watch awesome short videos created by KodiakCakes",
+      "title": "KodiakCakes on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 2494,
+        "followerCount": 210200,
+        "followingCount": 95,
+        "friendCount": 43,
+        "heart": 2100000,
+        "heartCount": 2100000,
+        "videoCount": 298
+      },
+      "user": {
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7345947174598869035~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=71963&refresh_token=1781a433f170dee340e385cf227fb049&x-expires=1723316400&x-signature=cyvbhiBHOV1h%2BvMxTnI0cNKaJSQ%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7345947174598869035~c5_720x720.jpeg?lk3s=a5d48078&nonce=58276&refresh_token=a3c61a2137a6974260512c6db48d4af5&x-expires=1723316400&x-signature=l7uwVCQR2mCFABr1fTzXJfcWFkY%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7345947174598869035~c5_100x100.jpeg?lk3s=a5d48078&nonce=27390&refresh_token=799d61ea18f978df2a377546e440ce99&x-expires=1723316400&x-signature=aHq82qUXhgRxqyYhmGpaaQ10YAI%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "empli.fi/kodiakcakes",
+          "risk": 3
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Food & Beverage",
+          "categoryButton": false,
+          "commerceUser": true
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "6710320587762140166",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickname": "KodiakCakes",
+        "openFavorite": true,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": true
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAA3uCGh-fKiUkI8TejICJUgfCvXiWMN3tXqpIlB5QGnEuX30u0EUO3NoX1jM8KdxUH",
+        "secret": false,
+        "signature": "Feeding epic days and wilder lives \ud83d\udc3b\nKodiak Keep It Wild \ud83d\udc47",
+        "stitchSetting": 0,
+        "ttSeller": false,
+        "uniqueId": "kodiakcakes",
+        "verified": false
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "202408081907301046E40D49B55416F54C",
+      "now": 1723144051000
+    },
+    "log_pb": {
+      "impr_id": "202408081907301046E40D49B55416F54C"
+    },
+    "shareMeta": {
+      "desc": "@mush 5571 Followers, 502 Following, 106.8k Likes - Watch awesome short videos created by MUSH",
+      "title": "MUSH on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 5571,
+        "followingCount": 502,
+        "friendCount": 187,
+        "heart": 106800,
+        "heartCount": 106800,
+        "videoCount": 249
+      },
+      "user": {
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2451bf5bf5a0906cf78dd153c48953b6~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=67660&refresh_token=4303d9e7fd5e9ba28603dfffd5d3e127&x-expires=1723316400&x-signature=mIKooya55JVQZIlhtEqOVy8%2Be3Q%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2451bf5bf5a0906cf78dd153c48953b6~c5_720x720.jpeg?lk3s=a5d48078&nonce=99966&refresh_token=1cf188ea622f6a80888ccddf32dab06c&x-expires=1723316400&x-signature=TM3JGkeAAgUpmZPEuQ7pSvL0Krk%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2451bf5bf5a0906cf78dd153c48953b6~c5_100x100.jpeg?lk3s=a5d48078&nonce=92934&refresh_token=50f320fff72cfe26463586147205f106&x-expires=1723316400&x-signature=SQTCvh5pzNgZ7HqR%2Bj9YLr1QPyw%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "https://linktr.ee/eatmush",
+          "risk": 0
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Food & Beverage",
+          "categoryButton": false,
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          }
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "7000202837461959685",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickNameModifyTime": 1716385462,
+        "nickname": "MUSH",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": false
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAA9E47kNrlRsbSrmQQjbTFkKhAEsy9p8agAU7HfP89Y99gqw2s9hGlhvph6AiB3YwH",
+        "secret": false,
+        "signature": "Overnight Oats & Oatmeal Smoothies.\nClean Ingredients | Nothing Artificial | GF",
+        "stitchSetting": 0,
+        "ttSeller": false,
+        "uniqueId": "mush",
+        "verified": true
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "202408081907313F84CD63E186FE196B6D",
+      "now": 1723144051000
+    },
+    "log_pb": {
+      "impr_id": "202408081907313F84CD63E186FE196B6D"
+    },
+    "shareMeta": {
+      "desc": "@quaker 21.8k Followers, 22 Following, 152.7k Likes - Watch awesome short videos created by Quaker Oats",
+      "title": "Quaker Oats on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 21800,
+        "followingCount": 22,
+        "friendCount": 3,
+        "heart": 152700,
+        "heartCount": 152700,
+        "videoCount": 128
+      },
+      "user": {
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/768f0d1434c06c7131074da4082d1dd5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=65682&refresh_token=cf77ca6cdf0f8001610871440688dd1f&x-expires=1723316400&x-signature=0Zf%2B3K9Cn34jx4lSXK9q0JrIaAQ%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/768f0d1434c06c7131074da4082d1dd5~c5_720x720.jpeg?lk3s=a5d48078&nonce=83821&refresh_token=a54b89a4c652827c590d433ef532d9c4&x-expires=1723316400&x-signature=okfbCjL23zmlWOoPvZoTLRBKqHw%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/768f0d1434c06c7131074da4082d1dd5~c5_100x100.jpeg?lk3s=a5d48078&nonce=5482&refresh_token=74a69082867b7dc975713ace8b6306eb&x-expires=1723316400&x-signature=fyXueCEeLjF2taqQ2N6%2B6M7XKPU%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "https://www.quakeroats.com/pickleball",
+          "risk": 3
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Food & Beverage",
+          "categoryButton": false,
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          }
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "7096959749299684358",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickNameModifyTime": 1652725233,
+        "nickname": "Quaker Oats",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": false
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAA2o0td2vmyEjsxSBsDdUfKf_8mK_evCoejL9_3NjMHEHAaaNqFLP0BYUXk-0Vsr3q",
+        "secret": false,
+        "signature": "Welcome to the grain attraction \ud83c\udf3e\ud83e\udd63",
+        "stitchSetting": 0,
+        "ttSeller": false,
+        "uniqueId": "quaker",
+        "verified": true
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240808190731F954DB2F6A654F19C12C",
+      "now": 1723144052000
+    },
+    "log_pb": {
+      "impr_id": "20240808190731F954DB2F6A654F19C12C"
+    },
+    "shareMeta": {
+      "desc": "@magicspooncereal 24.6k Followers, 282 Following, 358.2k Likes - Watch awesome short videos created by Magic Spoon",
+      "title": "Magic Spoon on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 24600,
+        "followingCount": 282,
+        "friendCount": 134,
+        "heart": 358200,
+        "heartCount": 358200,
+        "videoCount": 599
+      },
+      "user": {
+        "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7344092026788380714~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=44312&refresh_token=2c44d0c4d6479fbcc0ffc895f1cebf11&x-expires=1723316400&x-signature=ZAXnAeAWYHGzuQYJeQPQIeWqg3g%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7344092026788380714~c5_720x720.jpeg?lk3s=a5d48078&nonce=84079&refresh_token=a6cfb1653eb90e3cf9dbc87f1f096e75&x-expires=1723316400&x-signature=VtKgDnpU%2BZNbQ9fNeX4ha06zeXo%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7344092026788380714~c5_100x100.jpeg?lk3s=a5d48078&nonce=94944&refresh_token=172dc86ff5c08c4879427cc526ea6f06&x-expires=1723316400&x-signature=BxfUTEGmFFx21ZtpL2GomqoyS9I%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "https://linktr.ee/magicspooncereal",
+          "risk": 0
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Shopping & Retail",
+          "categoryButton": false,
+          "commerceUser": true
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "6885813762927805445",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickNameModifyTime": 1603228631,
+        "nickname": "Magic Spoon",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": true,
+          "showQuestionTab": true
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAAoI7aVHC6IJg2JsMgDyeEx16kHY8JP9KVZPMuJ6tFiNs2tC5cH1-a_YVKrljLbhZa",
+        "secret": false,
+        "signature": "\ud83d\udccd Try Cereal & Treats in stores!\n\ud83c\udfcb\ufe0f\u200d\u2640\ufe0f High-Protein\n\u2764\ufe0f 0g of Sugar",
+        "stitchSetting": 0,
+        "ttSeller": true,
+        "uniqueId": "magicspooncereal",
+        "verified": true
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "2024080819073276D0EB8D8D6183172464",
+      "now": 1723144052000
+    },
+    "log_pb": {
+      "impr_id": "2024080819073276D0EB8D8D6183172464"
+    },
+    "shareMeta": {
+      "desc": "@birchbenders 3925 Followers, 62 Following, 197.8k Likes - Watch awesome short videos created by Birch Benders",
+      "title": "Birch Benders on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 3925,
+        "followingCount": 62,
+        "friendCount": 22,
+        "heart": 197800,
+        "heartCount": 197800,
+        "videoCount": 264
+      },
+      "user": {
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b44c2c01bc0c9a3cc7ff614854786f77~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=49862&refresh_token=e5bc58184668911f08f7a60f220d1957&x-expires=1723316400&x-signature=Sw8EPfCTptdBnZ6ajPAn3GR9NuQ%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b44c2c01bc0c9a3cc7ff614854786f77~c5_720x720.jpeg?lk3s=a5d48078&nonce=62634&refresh_token=9e78c2d7f3be67629cce14b1b387be34&x-expires=1723316400&x-signature=W6mXpIcZthfTh4RLLRAShgReihA%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/b44c2c01bc0c9a3cc7ff614854786f77~c5_100x100.jpeg?lk3s=a5d48078&nonce=5218&refresh_token=6ca0c676e9c686e6500a8fde50d5c447&x-expires=1723316400&x-signature=fkVADSYpbee1T4wRZLp8vY%2F7Bhw%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "https://birchbenders.com",
+          "risk": 0
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Food & Beverage",
+          "categoryButton": false,
+          "commerceUser": true
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "6786771697556833286",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickname": "Birch Benders",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": false
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAAhai8ntoF-48vtms0pk16g8U9EFtPfvAoIz0qQ4UJ3esbW-EyBW6viAwrhdtCTrzL",
+        "secret": false,
+        "signature": "Bring people together, make foods better, \n fill your days with stacks of fun \ud83e\udd5e",
+        "stitchSetting": 0,
+        "ttSeller": false,
+        "uniqueId": "birchbenders",
+        "verified": true
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240808190732E38ACF2A51EF5A19B862",
+      "now": 1723144053000
+    },
+    "log_pb": {
+      "impr_id": "20240808190732E38ACF2A51EF5A19B862"
+    },
+    "shareMeta": {
+      "desc": "@catalinacrunch 5513 Followers, 92 Following, 146.9k Likes - Watch awesome short videos created by Catalina Crunch",
+      "title": "Catalina Crunch on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 5513,
+        "followingCount": 92,
+        "friendCount": 56,
+        "heart": 146900,
+        "heartCount": 146900,
+        "videoCount": 357
+      },
+      "user": {
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21036605b26e10823b7ef94873943f68~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=45519&refresh_token=cfa48f4dac56b75a48b5216bf1e81806&x-expires=1723316400&x-signature=RJN8FqEP70AjrUz9t7lbRxT9ZF4%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21036605b26e10823b7ef94873943f68~c5_720x720.jpeg?lk3s=a5d48078&nonce=68701&refresh_token=924ac790ccdab2adb8f1732ab77f8f4d&x-expires=1723316400&x-signature=hjqBZ5pnoHS0SE0C02Y0w3aKWr0%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/21036605b26e10823b7ef94873943f68~c5_100x100.jpeg?lk3s=a5d48078&nonce=1364&refresh_token=54d78142adc0befd63d04033e563406e&x-expires=1723316400&x-signature=tBMw87iwlfQAy%2FW4ZnGy5xFfpt0%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "catalinacrunch.com",
+          "risk": 3
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Shopping & Retail",
+          "categoryButton": false,
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          }
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "6895836975052686342",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickNameModifyTime": 1611947322,
+        "nickname": "Catalina Crunch",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": false
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAAkbioiCvwVyin0N9mZJ5YprpKHLhmkqA2ulAuTBA6EJwhiCoLC58SAE0mYZzwc--H",
+        "secret": false,
+        "signature": "Bringing you a better way to crunch\u2122!\nHigh Protein, Low-Sugar & Low-Carb snacks",
+        "stitchSetting": 0,
+        "ttSeller": true,
+        "uniqueId": "catalinacrunch",
+        "verified": true
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "2024080819073315BC37B5F5D38A199E95",
+      "now": 1723144053000
+    },
+    "log_pb": {
+      "impr_id": "2024080819073315BC37B5F5D38A199E95"
+    },
+    "shareMeta": {
+      "desc": "@purely_elizabeth 106.8k Followers, 386 Following, 691.7k Likes - Watch awesome short videos created by Purely Elizabeth",
+      "title": "Purely Elizabeth on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 106800,
+        "followingCount": 386,
+        "friendCount": 98,
+        "heart": 691700,
+        "heartCount": 691700,
+        "videoCount": 508
+      },
+      "user": {
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f9d8daf47f57d6f1f36083250de8017~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=29376&refresh_token=a94c1bfa03a26c5d195affe51a20812b&x-expires=1723316400&x-signature=Ox1tIoD0TN29xRI7R7rQ%2BC5ZJYA%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f9d8daf47f57d6f1f36083250de8017~c5_720x720.jpeg?lk3s=a5d48078&nonce=66761&refresh_token=bb02ba6ac5e8ab7889edd539745fa227&x-expires=1723316400&x-signature=pI6WcjEEYbEyCI77Ys9juZwS3KY%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6f9d8daf47f57d6f1f36083250de8017~c5_100x100.jpeg?lk3s=a5d48078&nonce=54895&refresh_token=c1759a05316b672fdd870d5be829fcef&x-expires=1723316400&x-signature=%2FHCb8oJuSORzZ9stCRIbOQj17ww%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "https://linkin.bio/purely_elizabeth",
+          "risk": 3
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Shopping & Retail",
+          "categoryButton": false,
+          "commerceUser": true,
+          "downLoadLink": {
+            "android": "",
+            "ios": ""
+          }
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "6770429577557001221",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickNameModifyTime": 1643824550,
+        "nickname": "Purely Elizabeth",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": true
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAAmKpo0PbKQ42GBiz__kMKVeiib-fxQ-YlnXSb2Vo7UtxqkssPygE_691DKMc_pRE4",
+        "secret": false,
+        "signature": "\u2728 Foods that help you thrive\n\ud83d\udc69\u200d\ud83d\udcbb Certified B-Corp + Women-Owned\nCODE: TIKTOK15",
+        "stitchSetting": 0,
+        "ttSeller": false,
+        "uniqueId": "purely_elizabeth",
+        "verified": true
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "2024080819073300DCB5BF39E7B71A4C39",
+      "now": 1723144053000
+    },
+    "log_pb": {
+      "impr_id": "2024080819073300DCB5BF39E7B71A4C39"
+    },
+    "shareMeta": {
+      "desc": "@eatovernightoats 6016 Followers, 529 Following, 98.6k Likes - Watch awesome short videos created by ONO Protein Oats",
+      "title": "ONO Protein Oats on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 6016,
+        "followingCount": 529,
+        "friendCount": 43,
+        "heart": 98600,
+        "heartCount": 98600,
+        "videoCount": 633
+      },
+      "user": {
+        "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312197804032524331~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=21230&refresh_token=fc86978de9e7928341696882dbf048df&x-expires=1723316400&x-signature=It%2FhaySZDSL3VtoqJVahJ2lxlDI%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312197804032524331~c5_720x720.jpeg?lk3s=a5d48078&nonce=5467&refresh_token=f1e1e2c32b2bf038d5882466782d4aac&x-expires=1723316400&x-signature=EDnmPq%2BSg74OVHCrciiv5%2FJvAlI%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312197804032524331~c5_100x100.jpeg?lk3s=a5d48078&nonce=26099&refresh_token=f5301982c09aab465f24ba1c220783f9&x-expires=1723316400&x-signature=nb4a9mjqtTel6mWsaOpyvzn%2FYKo%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "https://www.amazon.com/stores/page/18394D74-6D52-4334-8614-949D3A1C4E2B?ingress=2&visitId=c2247502-54a2-4097-be53-ea017087ec93&ref_=ast_bln",
+          "risk": 0
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Shopping & Retail",
+          "categoryButton": false,
+          "commerceUser": true
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "6902655757242762245",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickNameModifyTime": 1661224492,
+        "nickname": "ONO Protein Oats",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": false,
+          "showQuestionTab": true
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAABSeE5Eecb5BY3G2jJPExSDtiuTy7esVZrT8ggxuS-AxclADv0gzK8v2tBLeGlMlj",
+        "secret": false,
+        "signature": "29 y/o founder making oatmeal flavors with 20g of protein!\n\nAmazon Restock \u2b07\ufe0f",
+        "stitchSetting": 0,
+        "ttSeller": true,
+        "uniqueId": "eatovernightoats",
+        "verified": false
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240808190733E38ACF2A51EF5A19B88E",
+      "now": 1723144054000
+    },
+    "log_pb": {
+      "impr_id": "20240808190733E38ACF2A51EF5A19B88E"
+    },
+    "shareMeta": {
+      "desc": "@yishifoods 20.6k Followers, 178 Following, 1.4m Likes - Watch awesome short videos created by Yishi Foods",
+      "title": "Yishi Foods on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 20600,
+        "followingCount": 178,
+        "friendCount": 24,
+        "heart": 1400000,
+        "heartCount": 1400000,
+        "videoCount": 283
+      },
+      "user": {
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14a841ed1da23a2312f3b92cf62c1d5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=94401&refresh_token=a1c1ad0710a5dc28364076e7bddaeda2&x-expires=1723316400&x-signature=NsZpnTWu9%2FEF5bx6%2FW82TWITkc4%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14a841ed1da23a2312f3b92cf62c1d5~c5_720x720.jpeg?lk3s=a5d48078&nonce=47670&refresh_token=590e809f3581bb116dcfdbc320b5a14f&x-expires=1723316400&x-signature=Jz34hjVKnyfS3uJTh6CBF2R0dCg%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d14a841ed1da23a2312f3b92cf62c1d5~c5_100x100.jpeg?lk3s=a5d48078&nonce=35324&refresh_token=68e9a4b764bce18308b913afd8da49b8&x-expires=1723316400&x-signature=9mD9XejZftBGQzSXS%2BojwluRYPc%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "https://linktr.ee/yishifoods",
+          "risk": 0
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Shopping & Retail",
+          "categoryButton": false,
+          "commerceUser": true
+        },
+        "downloadSetting": 0,
+        "duetSetting": 3,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "7026209515285251077",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickNameModifyTime": 1661438283,
+        "nickname": "Yishi Foods",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": true,
+          "showQuestionTab": true
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAAJ9yk9vzXwPK5lz659j3dm9VIzSCjLCx7QqTGopZoHYCW-TSyASZz9yaJQjwD5KfJ",
+        "secret": false,
+        "signature": "Asian Dessert Flavors\nin Healthy, Delicious Oats \u2728\nShow now! \u2b07\ufe0f",
+        "stitchSetting": 3,
+        "ttSeller": true,
+        "uniqueId": "yishifoods",
+        "verified": false
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240808190734A2E3E2B09BC5E9192EA6",
+      "now": 1723144054000
+    },
+    "log_pb": {
+      "impr_id": "20240808190734A2E3E2B09BC5E9192EA6"
+    },
+    "shareMeta": {
+      "desc": "@mylklabs 514 Followers, 28 Following, 20.8k Likes - Watch awesome short videos created by Mylk Labs",
+      "title": "Mylk Labs on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 514,
+        "followingCount": 28,
+        "friendCount": 11,
+        "heart": 20800,
+        "heartCount": 20800,
+        "videoCount": 494
+      },
+      "user": {
+        "avatarLarger": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7351462727631503402~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=70008&refresh_token=acadca3fbdea0b281cbca3433c804cea&x-expires=1723316400&x-signature=Mk0KUkQzvBL3iUFvkvg104VAsHg%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7351462727631503402~c5_720x720.jpeg?lk3s=a5d48078&nonce=8441&refresh_token=c5708082da3c219f40070ccdc0c72d3d&x-expires=1723316400&x-signature=UFx7TPc%2F5py9qWt6Yt0QP3BUwRA%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7351462727631503402~c5_100x100.jpeg?lk3s=a5d48078&nonce=90753&refresh_token=a3f49037295aae82661d97ee81409211&x-expires=1723316400&x-signature=V3LcO%2B2521ahVTYR4hUY1GsqqZw%3D&shp=a5d48078&shcp=81f88b70",
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Shopping & Retail",
+          "categoryButton": false,
+          "commerceUser": true
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "6970092953096422406",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickNameModifyTime": 1670861740,
+        "nickname": "Mylk Labs",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": false
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAABw-RawAVqDZrZbGk5Gqui1dvrJ1sGmdNWcUzAqqpQc-3iMyDvnDT0BP6FAdaAByQ",
+        "secret": false,
+        "signature": "\ud83d\udc81\ud83c\udffb\u200d\u2640\ufe0f A healthy meal in minutes\n\ud83e\udd63 High fiber, low sugar instant oatmeal",
+        "stitchSetting": 0,
+        "ttSeller": false,
+        "uniqueId": "mylklabs",
+        "verified": false
+      }
+    }
+  },
+  {
+    "extra": {
+      "fatal_item_ids": [],
+      "logid": "20240808190734FCBB4CCA89316B194275",
+      "now": 1723144054000
+    },
+    "log_pb": {
+      "impr_id": "20240808190734FCBB4CCA89316B194275"
+    },
+    "shareMeta": {
+      "desc": "@bobsredmill 18.1k Followers, 279 Following, 461.1k Likes - Watch awesome short videos created by Bob\u2019s Red Mill",
+      "title": "Bob\u2019s Red Mill on TikTok"
+    },
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+      "stats": {
+        "diggCount": 0,
+        "followerCount": 18100,
+        "followingCount": 279,
+        "friendCount": 126,
+        "heart": 461100,
+        "heartCount": 461100,
+        "videoCount": 475
+      },
+      "user": {
+        "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d412ce99371986f309c15e559a279f96~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=97119&refresh_token=a9e6d82ff782124b41e5191f0eb0e28f&x-expires=1723316400&x-signature=otuvRDB6xeBpk9EtyTYeXoNY%2FJs%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d412ce99371986f309c15e559a279f96~c5_720x720.jpeg?lk3s=a5d48078&nonce=4948&refresh_token=a141e7933e95489dc483ae07d0645927&x-expires=1723316400&x-signature=c7VUKTXPBrr3N8lE3AILlUaDng0%3D&shp=a5d48078&shcp=81f88b70",
+        "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d412ce99371986f309c15e559a279f96~c5_100x100.jpeg?lk3s=a5d48078&nonce=41804&refresh_token=b3e11036e10283612eb97c46f35d4e40&x-expires=1723316400&x-signature=IhXjNDfX8wilF0JeUGW75Ni5v%2BM%3D&shp=a5d48078&shcp=81f88b70",
+        "bioLink": {
+          "link": "Sprout.link/bobsredmill",
+          "risk": 3
+        },
+        "canExpPlaylist": true,
+        "commentSetting": 0,
+        "commerceUserInfo": {
+          "category": "Food & Beverage",
+          "categoryButton": false,
+          "commerceUser": true
+        },
+        "downloadSetting": 0,
+        "duetSetting": 0,
+        "followingVisibility": 1,
+        "ftc": false,
+        "id": "6850176744273069062",
+        "isADVirtual": false,
+        "isEmbedBanned": false,
+        "nickname": "Bob\u2019s Red Mill",
+        "openFavorite": false,
+        "privateAccount": false,
+        "profileEmbedPermission": 1,
+        "profileTab": {
+          "showPlayListTab": true
+        },
+        "relation": 0,
+        "secUid": "MS4wLjABAAAAcwVDVZS9bX2fK3e2UZLrcxD_FfYq2iz3sErTnPsIUHGRJJH0KDwlo6EC8s7NZkEW",
+        "secret": false,
+        "signature": "Best known for oatmeal and baking flours\n\ud83d\udcaf employee-owned",
+        "stitchSetting": 0,
+        "ttSeller": false,
+        "uniqueId": "bobsredmill",
+        "verified": true
+      }
+    }
   }
 ]
