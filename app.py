@@ -1,13 +1,14 @@
 # import core flask and pymongo utilities
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 from bson import json_util
 
-# import native utilities
+# import other utilities
 from datetime import datetime
 import os, json
+import pandas as pd
 
 # import custom functions
 from tiktok_data_cleaning import clean_user_data
@@ -22,11 +23,12 @@ MONGO_URI = "mongodb+srv://jackzhang1298:youlanjiyi@sbcluster.surcdnj.mongodb.ne
 client = mongo_login(MONGO_URI)
 # Select the database and collection
 db = client['knowYourViralBrands']
-collection = db['TikTokAccount']
+scraperdata_collection = db['TikTokAccount']
+brandname2username_collection = db['brandname2username']
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('dashboard.html')
 
 @app.route('/dashboard')
 def dashboard():
@@ -35,7 +37,13 @@ def dashboard():
 @app.route('/data')
 def get_data():
     # load file that maps brand name to tiktok username
-    (df, brands, usernames) = get_brand_username()
+    # (df, brands, usernames) = get_brand_username()
+
+    dicts_names = list(brandname2username_collection.find())
+    df = pd.DataFrame(dicts_names)
+    brands = [i['brandName'] for i in dicts_names]
+    usernames = [i['tiktokUsername'] for i in dicts_names]
+    
 
     # Query the data we care about using projection
     projection = {
@@ -48,7 +56,7 @@ def get_data():
         'userInfo.stats.heartCount': 1,
         'userInfo.stats.videoCount': 1
     }
-    dicts = list(collection.find({}, projection))
+    dicts = list(scraperdata_collection.find({}, projection))
 
     # Clean up data queried from mongoDB
     data = clean_user_data(dicts, usernames)
@@ -57,7 +65,7 @@ def get_data():
     datasets = []
     for username, user_data in data.items():
         # get the brand for tiktok username
-        brand = df.loc[df['TikTok Username'] == username]['Brand'].values[0]
+        brand = df.loc[df['tiktokUsername'] == username]['brandName'].values[0]
 
         datasets.append({
             'label': brand,
@@ -83,6 +91,25 @@ def get_data():
         'max_timestamp': max_timestamp
     })
 
+@app.route('/add_brand', methods=['POST'])
+def add_brand():
+    try:
+        data = request.json
+        brand_name = data['brandName']
+        tiktok_username = data['tiktokUsername']
+        
+        # Insert the new brand into the database
+        brandname2username_collection.insert_one({
+            'brandName': brand_name,
+            'tiktokUsername': tiktok_username
+        })
+        
+        return jsonify({"message": "Brand added successfully"}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 400
+
+
+# this route is not in use
 @app.route('/api/tiktok_trends', methods=['GET'])
 def get_tiktok_trends():
     # load file that maps brand name to tiktok username
@@ -99,7 +126,7 @@ def get_tiktok_trends():
         'userInfo.stats.heartCount': 1,
         'userInfo.stats.videoCount': 1
     }
-    dicts = list(collection.find({}, projection))
+    dicts = list(scraperdata_collection.find({}, projection))
 
     # Clean up data queried from mongoDB
     data = clean_user_data(dicts, usernames)
