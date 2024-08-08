@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: white; 
-    padding: 20px 0;
+    padding: 0px 0;
     align-items: center;
 }
 
@@ -17,7 +17,7 @@ header {
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
-    padding-left: 40px; 
+    padding-left: 0px; 
     background-color: white;
     padding-bottom: 10px;
 }
