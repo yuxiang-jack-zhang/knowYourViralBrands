@@ -81,7 +81,6 @@ def main(outname = "tiktok_data_user.json"):
     And writes output data to json file, outname default to "tiktok_data_user.json"
     """
     # load file that maps brand name to tiktok username
-    (df, brands, usernames) = get_brand_username()
     dicts_names = list(brandname2username_collection.find())
     df = pd.DataFrame(dicts_names)
     brands = [i['brandName'] for i in dicts_names]
