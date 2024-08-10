@@ -27,7 +27,7 @@ async def get_user_data(usernames):
     """
     dicts = []
     api = TikTokApi()
-    await api.create_sessions(headless=True, ms_tokens=[ms_token], num_sessions=1, sleep_after=3)
+    await api.create_sessions(headless=False, ms_tokens=[ms_token], num_sessions=1, sleep_after=3)
     for username in list(usernames):
         user = api.user(username)
 
