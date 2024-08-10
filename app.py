@@ -12,7 +12,7 @@ import pandas as pd
 
 # import custom functions
 from tiktok_data_cleaning import clean_user_data
-from helper import get_brand_username, mongo_login
+from helper import mongo_login
 
 app = Flask(__name__)
 CORS(app)

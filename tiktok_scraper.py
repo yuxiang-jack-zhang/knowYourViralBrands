@@ -9,7 +9,7 @@ from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
 # import custom helper functions
-from helper import get_brand_username, mongo_login
+from helper import mongo_login
 
 ms_token = os.environ.get("ms_token", None) # get your own ms_token from your cookies on tiktok.com
 MONGO_URI = os.environ.get("MONGO_URI")
@@ -27,7 +27,7 @@ async def get_user_data(usernames):
     """
     dicts = []
     api = TikTokApi()
-    await api.create_sessions(headless=False, ms_tokens=[ms_token], num_sessions=1, sleep_after=3)
+    await api.create_sessions(headless=True, ms_tokens=[ms_token], num_sessions=1, sleep_after=3)
     for username in list(usernames):
         user = api.user(username)
 

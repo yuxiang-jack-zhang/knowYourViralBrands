@@ -3,11 +3,11 @@ import pandas as pd
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-def get_brand_username(filename = "brand2username.csv"):
-    df = pd.read_csv("brand2username.csv")
-    brands = list(df['Brand'].values)
-    usernames = list(df['TikTok Username'].values)
-    return (df, brands, usernames)
+# def get_brand_username(filename = "brand2username.csv"):
+#     df = pd.read_csv("brand2username.csv")
+#     brands = list(df['Brand'].values)
+#     usernames = list(df['TikTok Username'].values)
+#     return (df, brands, usernames)
 
 def mongo_login(uri):
     # Create a new client and connect to the server
