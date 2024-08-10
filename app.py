@@ -113,7 +113,11 @@ def add_brand():
 @app.route('/api/tiktok_trends', methods=['GET'])
 def get_tiktok_trends():
     # load file that maps brand name to tiktok username
-    (df, brands, usernames) = get_brand_username()
+    dicts_names = list(brandname2username_collection.find())
+    df = pd.DataFrame(dicts_names)
+    brands = [i['brandName'] for i in dicts_names]
+    usernames = [i['tiktokUsername'] for i in dicts_names]
+
 
     # Query the data we care about using projection
     projection = {
