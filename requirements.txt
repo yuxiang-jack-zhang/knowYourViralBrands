@@ -3,5 +3,5 @@ pymongo
 pandas
 gunicorn
 flask
-playwright
+playwright==1.37.0
 flask_cors
